@@ -1,6 +1,11 @@
 # BrailleTap
 ### A Wearable Braille-Inspired Keyboard
 
+![BraileTap Prototype](IMG_8108.jpeg)
+
+Here's the first working version of BrailleTap,
+built during the 2026 Enable Innovation Hackathon.
+
 BrailleTap is a wearable typing device I developed with a teammate for the **2026 Brooklyn Tech Enable Innovation Hackathon**. The idea was to create an affordable, portable alternative to traditional Braille keyboards, which can be expensive and inconvenient to carry around.
 
 The glove uses five force-sensitive resistors (FSRs) connected to an ESP32 microcontroller. By pressing different combinations of fingers, users can input characters without needing a physical keyboard or touchscreen.
