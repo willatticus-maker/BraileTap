@@ -1,7 +1,7 @@
 # BrailleTap
 ### A Wearable Braille-Inspired Keyboard
 
-![BraileTap Prototype](IMG_8108.jpeg)
+![BraileTap Prototype](photos/IMG_8108.jpeg)
 
 Here's the first working version of BrailleTap,
 built during the 2026 Enable Innovation Hackathon.
